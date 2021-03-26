@@ -1,0 +1,71 @@
+Blockchain for Today and Tomorrow
+Introduction
+Blockchain is an exciting new technology that uses cryptography to verify transactions between parties on a decentralized network and creates a public ledger of data. 
+This is valuable in that it is inherently tamper proof, thus making fraudulent transactions impossible. 
+With growing concern of data security and cyber crime, Blockchain has proven a meaningful tool to ensure secure transactions that can in no way be replicated or deleted.
+The growing popularity of Blockchain has many in the tech industry pining over how to implement it in exciting new ways. 
+If implemented on a wide scale, Blockchain will change how data is managed and secured.
+A History of Blockchain
+Blockchain technology made its breakout debut in 2009 with the release of the cryptocurrency Bitcoin. Bitcoin creator, Satoshi Nakamoto, was a member of an enigmatic group of software developers known as Cypherpunks. 
+Cypherpunks widely held the belief that in order for the internet to be free and fair for all, cryptography would be at the center of the way software should be developed. 
+These ideals were laid out in A Cypherpunk’s Manifesto, by Cypherpunk member Eric Hughs in 1993. 
+“Privacy is necessary for an open society in the electronic age. We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy out of their beneficence. 
+Privacy in an open society […] requires cryptography.”(Bleakley, 216)
+Cypherpunks believed that conventional currency is flawed in that transactions are brokered from the centralized banking industry, thus lacking anonymity for users and making them subject to banking fees and policy. 
+To solve this problem, they supported the use of cryptocurrency, a form of currency that only exists in the form of information held in a computer network.(Bleakley, 215) 
+Satoshi Nakamoto released a white paper Bitcoin: A Peer-to-Peer Electronic Cash System to a cypherpunk mailing list, announcing his release of Bitcoin in 2008. 
+Bitcoin is a cryptocurrency that uses a decentralized network of computers to broker transactions of the currency. The revolutionary technology used Blockchain at the core of its system to verify the transactions on the network.
+The value of Bitcoin has risen exponentially since its release. It went from trading at around 30 cents per coin in 2011 to trading at $60,000 per coin today. 
+This success has made Bitcoin part of the modern zeitgeist, proving that the anonymity achieved by Blockchain technology is valued greatly. 
+This has given rise to many new cryptocurrencies such as Etherium, Litecoin, and Dogecoin. Blockchain has since peaked the interest of computer scientists for its promising future applications in secure networking and data management. 
+Some of the top tech companies have already begun to integrate Blockchain into their systems.
+How Blockchain Works
+    Blockchain creates a ledger of every transaction ever made on the Blockchain network. 
+Each new transaction is sent into the network with a new Block ID number and information on the data it is transferring. 
+In Bitcoin’s case, the information is the amount of Bitcoin transferred in the transaction, as well as the historical data of the Bitcoin sent. 
+This sender’s block is sent to every computer on the Blockchain network to be verified. A single computer is chosen as the verifier and it reviews all previous transactions of that information based on the public ledger. 
+If everything adds up correctly the transaction is verified and completed, and the transaction is logged into the public ledger. 
+If there is a discrepancy in the history of the information on the ledger the transaction is denied. This makes the transaction very secure. 
+Figure 1. shows a new block is checked against previous block transactions all the way back to the original “Genesis” block on the public ledger.
+
+Figure 1. Blockchain transaction protocols.
+Who is Using Blockchain Today?
+	Blockchain technology is not only exclusive to cryptocurrency. Companies such as Amazon and Alibaba have taken steps toward this integration for a variety of use cases. 
+Blockchain is an open source software so it is easily applied at a low cost. Cloud Networking and Database Management are at the forefront of modern Blockchain integration.
+Alibaba issued a patent application in May 2020 for a Blockchain like system. This system uses a 3rd party storage system that, when queried for information, creates a key code to verify the smart contract from the Blockchain. 
+Then the transaction is written to a ledger that is shared on a decentralized network. This would improve the speed of transactions in a Blockchain.(Indian Patent News)
+Amazon created QLDB (Quantum Ledger Database) which is a “hybrid” database technology that uses traditional database technology and blockchain together. 
+In this case, Amazon is a central overseer of transactions but it creates a ledger, much like a standard Blockchain. Due to Amazon’s strong market presence, QLDB is gaining traction, despite its centralized network. 
+Larger companies prefer having control of the data in their networks. Although this may be contrary to the initial ideals of Blockchain developers, hybrid and more centralized applications may be seen in the future of Blockchain.(Harrison)
+A Bright Future for Blockchain
+	There are many exciting ways Blockchain may be implemented in the future. Cryptocurrencies continue to grow in popularity and will eventually be more broadly accepted forms of currency. 
+Blockchain tech could greatly help in fields that require confidentiality such as the medical industry and government agencies. Companies with large amounts of transactions like Apple’s app store, Amazon, or Walmart would find Blockchain useful in implementing. 
+In any case that there may be a threat of imposters creating fraudulent transactions, Blockchain’s indelible ledger will help deflate this threat. New technologies continue to emerge every year and bring new problems with them. 
+A tool like Blockchain could solve future problems we are not yet aware of.
+	As is the case with many new technologies, the initial ideals of Cypherpunks, and Blockchain’s creators, may be ignored. This powerful technology, created to circumvent the modern banking system, was bolstered by an anarchic world view. 
+Modern capitalist industries will seek to use Blockchain as a way to control data to monetize it. We have already seen Amazon attempt to use Blockchain in a centralized system with QLDB. This may give way to unintended consequences of using Blockchain that are yet unknown.
+Conclusion
+	This study has illustrated how Blockchain works, what its use cases are today, and how it may be used in the future. Blockchain used Bitcoin as its breakout use case and it continues to grow in the world of cryptocurrencies and beyond. 
+zWith large companies like Amazon and Alibaba taking steps to implement it in new ways, the future looks bright for Blockchain. 
+Blockchain is a powerful tool and with a growing need for secure, authenticated transactions it will surely be used to shape the future of data management. 
+
+
+
+
+
+Annotated Bibliography
+"Alibaba Group Holding Ltd Files Patent Application for Blockchain-Based Smart Contract Invocation Method and Apparatus, and Electronic Device." Indian Patent News, 25 Feb. 2021, p. NA. Gale OneFile: News, link.gale.com/apps/doc/A653020072/GPS?u=pcc&sid=GPS&xid=e836248f. Accessed 13 Mar. 2021.
+This is a press release about Alibaba’s Patent they submitted for a Blockchain-based smart contract system for managing payments and storing customer data in a distributed database.
+
+Bleakley, Chris. Poems That Solve Puzzles: the History and Science of Algorithms. Oxford, 2020.
+This is a history of algorithms including Blockchain and Cryptocurrency. The chapter entitled Next Steps is referenced in this study.
+
+Harrison, Guy. "QLDB Paves the Way for Blockchain Databases." Database Trends & Applications, vol. 34, no. 5, Oct.-Nov. 2020, p. 29. Gale General OneFile, link.gale.com/apps/doc/A643734535/GPS?u=pcc&sid=GPS&xid=161f1dda. Accessed 12 Mar. 2021.
+This article discusses the writer's views on the future of Blockchain technology used in databases. QLDB is Amazon’s hybrid database system that combines Blockchain and database technology. The article uses QLDB as an example of how Blockchain is implemented and where it could be in the future.
+
+Holbrook, Joseph. Architecting Enterprise Blockchain Solutions. Sybex, 2020.
+Architecting Enterprise Blockchain Solutions is a deep dive into Blockchain. Its topics span from the history of Blockchain to technical specs on how to implement the technology. The section entitled Enterprise Blockchain Use Cases is especially relevant to this study.
+
+Larkin, Michael. “Microsoft: 2018 May Be The Year Blockchain Goes Mainstream.” Investor's Business Daily, 18 June 2018, 
+www.investors.com/news/blockchain-mainstream-industry-applications-microsoft-azure-cto/.
+This article, published in 2018, speaks on Microsoft and other software and BaaS services eagerness to implement blockchain. This has a quick overview of some use cases including 3M’s medical implementation. 
